@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 This is the first modified after pushing to the github.
 
 Git tracks changes of files.
+
+Using the SSH address can be ignore the github name and password.
