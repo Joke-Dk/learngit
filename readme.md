@@ -1,4 +1,5 @@
 This is the master version.
+(merge by the dev02)
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
