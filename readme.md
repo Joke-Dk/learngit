@@ -1,6 +1,9 @@
 modified the master before merge the tmp branch.
+=======
+create a new branch called tmp.
 
 This is the master version.
+
 (merge by the dev02)
 
 Git is a distributed version control system.
