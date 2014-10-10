@@ -1,0 +1,24 @@
+tag v0.1
+Tagger: Joke-Dk <dking@live.com>
+Date:   Fri Oct 10 11:53:04 2014 +0800
+
+version 0.1 released
+
+commit f7f101744aef9428e971f089fd0e78bb533526aa
+Author: Joke-Dk <dking@live.com>
+Date:   Thu Oct 9 20:00:55 2014 +0800
+
+    modified readme after pushing project to github
+
+diff --git a/readme.md b/readme.md
+index a9c5755..621056a 100644
+--- a/readme.md
++++ b/readme.md
+@@ -1,4 +1,7 @@
+ Git is a distributed version control system.
+ Git is free software distributed under the GPL.
+ Git has a mutable index called stage.
++
++This is the first modified after pushing to the github.
++
+ Git tracks changes of files.
