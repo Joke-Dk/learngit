@@ -1,3 +1,5 @@
+Now work is doing but there is some bug in master.
+
 create the branch called "dev"
 
 Git is a distributed version control system.
